@@ -1,3 +1,10 @@
+<div align="center">
+
+<p> <b>Visitors Count 👁️</b> </p>
+<img src="https://profile-counter.deno.dev/PANDUAN_PENGGUNAAN_RESIDENT_HELP/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+
+</div>
+
 # 📘 Panduan Penggunaan Sistem Resident Help
 
 Dokumen ini menjelaskan alur kerja aplikasi **Resident Help** mulai dari persiapan data oleh Admin hingga proses pelaporan kerusakan oleh Warga.
