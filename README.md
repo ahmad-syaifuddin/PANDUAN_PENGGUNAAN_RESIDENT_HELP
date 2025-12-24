@@ -125,6 +125,3 @@ Masuk menu **Laporan & Output**, Admin bisa mencetak:
     * Hubungi Admin. Pastikan status kepemilikan Anda di set ke `Active`. Jika statusnya `Moved Out` atau `Sold`, unit tidak bisa dilaporkan.
 
 ---
-
-**Resident Help System**
-*Dibuat untuk memenuhi Tugas Kerja Praktek / Skripsi*
