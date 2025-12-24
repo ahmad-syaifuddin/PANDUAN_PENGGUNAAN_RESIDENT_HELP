@@ -141,8 +141,8 @@ Buka 2 Browser Berbeda:
 - Browser 2 (Incognito/Edge): Login sebagai Warga.
 
 Lakukan "Ping-Pong":
-Warga Lapor -> Pindah ke Browser Admin (Reload) -> Admin Proses.
-Admin Selesai -> Pindah ke Browser Warga (Reload) -> Warga Rating.
+1. Warga Lapor -> Pindah ke Browser Admin (Reload) -> Admin Proses.
+2. Admin Selesai -> Pindah ke Browser Warga (Reload) -> Warga Rating.
 
 Akhiri dengan Laporan:
-Tunjukkan PDF Laporan di Browser Admin sebagai bukti "Hasil Akhir" sistem.
+1. Tunjukkan PDF Laporan di Browser Admin sebagai bukti "Hasil Akhir" sistem.
