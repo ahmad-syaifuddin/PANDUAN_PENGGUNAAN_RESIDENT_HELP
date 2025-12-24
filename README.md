@@ -125,3 +125,17 @@ Masuk menu **Laporan & Output**, Admin bisa mencetak:
     * Hubungi Admin. Pastikan status kepemilikan Anda di set ke `Active`. Jika statusnya `Moved Out` atau `Sold`, unit tidak bisa dilaporkan.
 
 ---
+
+
+# Saran Penyajian untuk Sidang/Demo:
+Buka 2 Browser Berbeda:
+
+- Browser 1 (Chrome): Login sebagai Admin.
+- Browser 2 (Incognito/Edge): Login sebagai Warga.
+
+Lakukan "Ping-Pong":
+Warga Lapor -> Pindah ke Browser Admin (Reload) -> Admin Proses.
+Admin Selesai -> Pindah ke Browser Warga (Reload) -> Warga Rating.
+
+Akhiri dengan Laporan:
+Tunjukkan PDF Laporan di Browser Admin sebagai bukti "Hasil Akhir" sistem.
