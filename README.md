@@ -16,7 +16,7 @@ Gunakan akun berikut untuk simulasi:
 
 ---
 
-## 🅰️ SKENARIO 1: ALUR KERJA ADMIN (Manajemen)
+## SKENARIO 1: ALUR KERJA ADMIN (Manajemen)
 
 Admin adalah kunci utama sistem. Sebelum warga bisa lapor, Admin harus menyiapkan datanya dulu.
 
@@ -79,7 +79,7 @@ Masuk menu **Laporan & Output**, Admin bisa mencetak:
 
 ---
 
-## 🅱️ SKENARIO 2: ALUR KERJA NASABAH / WARGA
+## SKENARIO 2: ALUR KERJA NASABAH / WARGA
 
 ### 1. Registrasi Mandiri
 1.  Di halaman depan (Landing Page), klik **Mulai Sekarang** atau **Daftar Akun**.
